@@ -26,3 +26,15 @@ This will create an **environment** called `workshop` that includes the packages
 To use the environment, you may type:
 
     source activate workshop
+    
+## Running Jupyter notebooks
+
+To use any of the Jupyter notebooks included in this repository, run the following command from the terminal:
+
+    jupyter notebook
+    
+This will open your default browser to Jupyter running on your system.
+
+![Jupyter](http://d.pr/i/1hEz9/1h1qF9VH+)
+
+Click on the `notebooks` directory, then on one of the enclosed notebook files (`.ipynb` extension) within.
