@@ -1,5 +1,7 @@
 # VUMC Software Carpentry Workshop
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/vubiostat/swc_workshop)
+
 This repository contains teaching materials for the VUMC Software Carpentry Workshop, held each summer by the Department of Biostatistics and the Department of Biomedical Informatics.
 
 To obtain and use the materials for the workshop, you will need to have both Git and Python (version 3.5) installed on your system. Instructions for this are provided on the [workshop website](https://vubiostat.github.io/2016-08-17-vumc/). 
