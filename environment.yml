@@ -10,6 +10,7 @@ dependencies:
 - ipyparallel
 - jupyter_client
 - jupyter_core
+- jupyter_nbextensions_configurator
 - numpy>=1.11.0
 - pandas>=0.18.1
 - patsy
