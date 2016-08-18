@@ -29,6 +29,12 @@ To use the environment, you may type:
 
     source activate workshop
     
+on MacOS and Linux, or:
+
+    activate workshop
+    
+on Windows.
+    
 ## Running Jupyter notebooks
 
 To use any of the Jupyter notebooks included in this repository, run the following command from the terminal:
