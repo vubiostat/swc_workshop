@@ -34,6 +34,14 @@ on MacOS and Linux, or:
     activate workshop
     
 on Windows.
+
+### Enabling parallel IPython
+
+To enable IPython parallel computing in the notebook environment, type:
+
+    ipcluster nbextension enable 
+    
+from the command line.
     
 ## Running Jupyter notebooks
 
