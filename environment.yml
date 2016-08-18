@@ -17,5 +17,6 @@ dependencies:
 - seaborn
 - scikit-learn>=0.17.1
 - scipy>=0.17.1
+- sympy
 - xz=5.0.5
 - xlrd
