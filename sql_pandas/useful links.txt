@@ -1,7 +1,0 @@
-https://pandas.pydata.org/pandas-docs/stable/
-
-https://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html
-
-https://blog.exploratory.io/why-sql-is-not-for-analysis-but-dplyr-is-5e180fef6aa7
-
-https://www.tidyverse.org/
