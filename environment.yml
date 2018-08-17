@@ -1,24 +1,20 @@
 name: workshop
+
+channels:
+- conda-forge
+
 dependencies:
-- python=3.5
+- python=3.6
 - ipython
 - jupyter
 - matplotlib
 - notebook
-- html5lib
-- ipywidgets
 - ipyparallel
-- jupyter_client
-- jupyter_core
-- jupyter_nbextensions_configurator
-- numpy>=1.11.0
-- pandas>=0.18.1
+- numpy
 - patsy
 - pip
-- readline
+- rpy2
 - seaborn
-- scikit-learn>=0.17.1
 - scipy>=0.17.1
 - sympy
-- xz=5.0.5
 - xlrd
